@@ -1,0 +1,1 @@
+A simple Banking Application incorporated with cryptographics constructions to ensure the confidentionality of data at rest.
